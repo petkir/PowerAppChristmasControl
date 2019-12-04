@@ -2,6 +2,8 @@
 ## Get Started
 ### Install Development Environment
 
+https://docs.microsoft.com/en-us/powerapps/developer/component-framework/get-powerapps-cli
+
 ### Run sample code
 first time
 `npm install`
@@ -9,26 +11,19 @@ first time
 Run in development Environment
 `npm start`
 
-#Package Solution
-```
-mkdir solutions
-cd solution
-pac solution init --publisher-name <enter your publisher name> --publisher-prefix <enter your publisher prefix>
-pac solution add-reference --path ../
-```
--- 'pac solution init --publisher-name peki --publisher-prefix cu
-
+## Package Solution
 
 Command first time packaging
 `msbuild /t:build /restore`
 rerun compile without restore 
 `msbuild /t:build `
-
+Details:
 
 https://docs.microsoft.com/en-us/powerapps/developer/component-framework/import-custom-controls
 
 
-
+## TODO Publishing
+https://docs.microsoft.com/en-us/powerapps/developer/component-framework/component-framework-for-canvas-apps
 
 pac auth create --url <your Common Data Service org’s url>
 
