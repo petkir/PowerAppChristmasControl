@@ -1,6 +1,6 @@
 # PowerApps Custom Christmas Control
 
-Sample Project
+This is a funny Christmas sample project
 
 ## Additional resources 
 * [What is Power Apps?](https://docs.microsoft.com/en-us/powerapps/powerapps-overview)
