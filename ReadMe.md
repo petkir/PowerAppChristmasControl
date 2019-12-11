@@ -3,11 +3,11 @@
 Sample Project
 
 ## Additional resources 
-[What is Power Apps?](https://docs.microsoft.com/en-us/powerapps/powerapps-overview)
-[Get tooling for Power Apps component framework](https://docs.microsoft.com/en-us/powerapps/developer/component-framework/get-powerapps-cli)
-[Create and build a code component](https://docs.microsoft.com/en-us/powerapps/developer/component-framework/create-custom-controls-using-pcf)
-[Add code components to a field or entity in model-driven apps](https://docs.microsoft.com/en-us/powerapps/developer/component-framework/add-custom-controls-to-a-field-or-entity)
-[Add components to a canvas app](https://docs.microsoft.com/en-us/powerapps/developer/component-framework/component-framework-for-canvas-apps#add-components-to-a-canvas-app)
+* [What is Power Apps?](https://docs.microsoft.com/en-us/powerapps/powerapps-overview)
+* [Get tooling for Power Apps component framework](https://docs.microsoft.com/en-us/powerapps/developer/component-framework/get-powerapps-cli)
+* [Create and build a code component](https://docs.microsoft.com/en-us/powerapps/developer/component-framework/create-custom-controls-using-pcf)
+* [Add code components to a field or entity in model-driven apps](https://docs.microsoft.com/en-us/powerapps/developer/component-framework/add-custom-controls-to-a-field-or-entity)
+* [Add components to a canvas app](https://docs.microsoft.com/en-us/powerapps/developer/component-framework/component-framework-for-canvas-apps#add-components-to-a-canvas-app)
 
 ## Get Started
 
