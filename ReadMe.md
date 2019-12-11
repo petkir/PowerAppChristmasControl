@@ -36,15 +36,15 @@ Once the npm packages are installed, run the following command to preview your c
 ```
 npm start
 ```
+## Package Deployment
+### Package Solution
 
-## Package Solution
-
-For details Look at
-
+Please follow this link
 https://docs.microsoft.com/en-us/powerapps/developer/component-framework/import-custom-controls
 
 
-## Publishing
+### Publishing
+Please follow this link
 https://docs.microsoft.com/en-us/powerapps/developer/component-framework/component-framework-for-canvas-apps
 
 
